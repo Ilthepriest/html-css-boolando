@@ -90,6 +90,10 @@ p{
     visibility: visible;
 }
 
+footer>img{
+    position: absolute;
+    width: 100%;
+}
 
 
 
